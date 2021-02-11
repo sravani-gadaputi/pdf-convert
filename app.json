@@ -1,0 +1,8 @@
+{
+  "name": "pdf-convert",
+  "description": "PDF Convert",
+  "keywords": [
+    "microservice"
+  ],
+  "repository": "https://github.com/forcementor/pdf-convert"
+}
