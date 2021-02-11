@@ -7,7 +7,7 @@
   "repository": "https://github.com/sravani-gadaputi/pdf-convert",
   "buildpacks": [
     {
-      "url": "https://severe-rain-3628.herokuapp.com/heroku/go"
+      "url": "heroku/go"
     }
     ]
 }
