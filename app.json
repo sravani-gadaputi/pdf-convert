@@ -4,7 +4,7 @@
   "keywords": [
     "microservice"
   ],
-  "repository": "https://github.com/forcementor/pdf-convert",
+  "repository": "https://github.com/sravani-gadaputi/pdf-convert",
   "buildpacks": [
     {
       "url": "heroku/go"
